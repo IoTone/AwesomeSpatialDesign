@@ -1,2 +1,21 @@
 # AwesomeSpatialDesign
 A list of things that are related to Spatial Design: tools , talks, process, themes, idea boards, and sample apps
+
+## UI Design Principles for XR
+
+- XRDesign handbooK: https://xrdesignhandbook.com/
+- IoTone Japan's concept of XR : ESP UX (Everyday Spatial Platform UX) TODO
+- https://jiaxinwen.wordpress.com/2017/03/30/non-diegetic-ui-design-for-vr-games/
+- https://uxdesign.cc/vr-diegetic-interfaces-dont-break-the-experience-554f210b6e46
+- https://medium.com/@gfruity/what-are-your-ui-choices-834ea7d937c
+- (discussion related to above 3 links) https://discourse.threejs.org/t/webxr-ux-ui-question/25218/2
+
+## Prototypes
+
+- https://github.com/felixmariotto/three-mesh-ui?tab=readme-ov-file
+- What about combining a web html surface mapped onto a mesh: https://threejs.org/examples/#css3d_youtube or https://github.com/jnmaloney/WebGui or bgfx wasm
+
+## Platforms / Toolkits
+
+- Apple, Unity, Meta,
+- react-three-fiber https://github.com/pmndrs/uikit
