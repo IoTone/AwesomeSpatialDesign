@@ -3,7 +3,11 @@ A list of things that are related to Spatial Design: tools , talks, process, the
 
 ## UI Design Principles for XR
 
+These are listed in order of importance to people designing for XR
+
 - XRDesign handbooK: https://xrdesignhandbook.com/
+- https://developer.android.com/design/ui/xr/guides/visual-design
+- https://developer.apple.com/videos/play/wwdc2023/10072/
 - IoTone Japan's concept of XR : ESP UX (Everyday Spatial Platform UX) TODO
 - https://jiaxinwen.wordpress.com/2017/03/30/non-diegetic-ui-design-for-vr-games/
 - https://uxdesign.cc/vr-diegetic-interfaces-dont-break-the-experience-554f210b6e46
