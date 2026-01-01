@@ -26,5 +26,9 @@ These are listed in order of importance to people designing for XR
 
 ## Platforms / Toolkits
 
-- Apple, Unity, Meta,
+- Apple
+- Unity
+- Meta
+- Unreal
+- Android XR
 - react-three-fiber https://github.com/pmndrs/uikit
