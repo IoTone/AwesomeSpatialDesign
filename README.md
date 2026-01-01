@@ -14,9 +14,14 @@ These are listed in order of importance to people designing for XR
 - https://medium.com/@gfruity/what-are-your-ui-choices-834ea7d937c
 - (discussion related to above 3 links) https://discourse.threejs.org/t/webxr-ux-ui-question/25218/2
 
+## Math
+
+- https://medium.com/@olegfrolov/essential-math-for-spatial-computing-f7df7ea6c413
+
 ## Prototypes
 
-- https://github.com/felixmariotto/three-mesh-ui?tab=readme-ov-file
+- (Browser) https://github.com/felixmariotto/three-mesh-ui?tab=readme-ov-file
+- (Quest) https://github.com/Volorf/xr-prototypes
 - What about combining a web html surface mapped onto a mesh: https://threejs.org/examples/#css3d_youtube or https://github.com/jnmaloney/WebGui or bgfx wasm
 
 ## Platforms / Toolkits
