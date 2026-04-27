@@ -24,7 +24,9 @@ These are listed in order of importance to people designing for XR
 - (Quest) https://github.com/Volorf/xr-prototypes
 - What about combining a web html surface mapped onto a mesh: https://threejs.org/examples/#css3d_youtube or https://github.com/jnmaloney/WebGui or bgfx wasm
 
-## Platforms / Toolkits
+## Platforms
+
+### Toolkits
 
 - Apple
 - Unity
@@ -34,3 +36,7 @@ These are listed in order of importance to people designing for XR
 - Android XR
 - react-three-fiber uikit https://github.com/pmndrs/uikit
 - example three-fiber buttons: https://codesandbox.io/p/sandbox/rrppl0y8l4?file=%2Fsrc%2FApp.js
+
+### Devices
+
+- Overview of XR Devices available or coming soon: https://docs.google.com/spreadsheets/d/1zTOeNmBPijGuqm99tdBJhV-hE5NU74sd55H3Fmbf5v4
