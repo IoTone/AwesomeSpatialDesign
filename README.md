@@ -40,3 +40,8 @@ These are listed in order of importance to people designing for XR
 ### Devices
 
 - Overview of XR Devices available or coming soon: https://docs.google.com/spreadsheets/d/1zTOeNmBPijGuqm99tdBJhV-hE5NU74sd55H3Fmbf5v4
+
+## XR / VR Hackathons
+
+- https://xrvdc.pages.dev
+- https://www.xrcc.events/
