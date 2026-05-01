@@ -41,6 +41,12 @@ These are listed in order of importance to people designing for XR
 
 - Overview of XR Devices available or coming soon: https://docs.google.com/spreadsheets/d/1zTOeNmBPijGuqm99tdBJhV-hE5NU74sd55H3Fmbf5v4
 
+## Development
+
+### AI
+
+- FAL https://www.linkedin.com/posts/lovis-odin-7a751360_fal-rostervercelapp-webgl-experience-activity-7455601891280859137-apKz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAIENgBAB7U7RX_Hl-tsAvNwMh3WO-qm4E https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-regenerate-3d/SKILL.md
+
 ## XR / VR Hackathons
 
 - https://xrvdc.pages.dev
