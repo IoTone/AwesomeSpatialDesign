@@ -48,6 +48,9 @@ These are listed in order of importance to people designing for XR
 - FAL https://www.linkedin.com/posts/lovis-odin-7a751360_fal-rostervercelapp-webgl-experience-activity-7455601891280859137-apKz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAIENgBAB7U7RX_Hl-tsAvNwMh3WO-qm4E https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-regenerate-3d/SKILL.md
 - Nvidia Lyra : https://research.nvidia.com/labs/sil/projects/lyra2/
 
+### Tools
+
+- Archiecture Designer : https://github.com/pascalorg/editor
   
 ## XR / VR Hackathons
 
