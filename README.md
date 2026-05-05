@@ -51,6 +51,7 @@ These are listed in order of importance to people designing for XR
 ### Tools
 
 - Archiecture Designer : https://github.com/pascalorg/editor
+- Splat transform https://github.com/playcanvas/splat-transform
   
 ## XR / VR Hackathons
 
