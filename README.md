@@ -32,6 +32,8 @@ These are listed in order of importance to people designing for XR
 - Unity
   - https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity
 - Meta
+  - Quest
+  - Rayban Smart Glasses
 - Unreal
 - Android XR
 - react-three-fiber uikit https://github.com/pmndrs/uikit
@@ -52,7 +54,7 @@ These are listed in order of importance to people designing for XR
 
 - Archiecture Designer : https://github.com/pascalorg/editor
 - Splat transform https://github.com/playcanvas/splat-transform
-  
+- Multiset-AI https://www.linkedin.com/posts/niksawlani_aiglasses-tracking-location-activity-7459972953951318016-NjeC CODE https://github.com/MultiSet-AI/wearable-vps-samples/tree/main/iOS
 ## XR / VR Hackathons
 
 - https://xrvdc.pages.dev
